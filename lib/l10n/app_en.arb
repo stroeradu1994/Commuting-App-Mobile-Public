@@ -1,0 +1,512 @@
+{
+    "welcomeScreenTitle": "Welcome to Commuting",
+    "@welcomeScreenTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "welcomeScreenSubtitle": "Drive other people on your common routes, or enjoy the confort of riding with other users easy and cheap",
+    "@welcomeScreenSubtitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "welcomeScreenStart": "Get Started",
+    "@welcomeScreenSubtitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "logIn": "Log in",
+    "@accountLogIn": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "accountNewAccount": "Create New Account",
+    "@accountNewAccount": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "emailInputTitle": "Enter Email",
+    "@emailInputTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailInputInfo": "A verification email will be sent to you",
+    "@emailInputInfo": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailInputError": "Email not valid",
+    "@emailInputError": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "emailVerificationTitle": "Verify Email",
+    "@emailVerificationTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailVerificationInfo": "An email has been sent to ",
+    "@emailVerificationInfo": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailVerificationNoCode": "Didn't receive the code?",
+    "@emailVerificationNoCode": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailVerificationResend": "Resend",
+    "@emailVerificationResend": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailVerificationError": "Pin is not valid",
+    "@emailVerificationResend": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "nameInputTitle": "First and Last Name",
+    "@nameInputTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameInputInfo": "Please provide your first and last name",
+    "@nameInputInfo": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameFirstInputLabel": "First Name",
+    "@nameFirstInputLabel": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameLastInputLabel": "Last Name",
+    "@nameLastInputLabel": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameFirstInputError": "First Name is not valid",
+    "@nameFirstInputError": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameLastInputError": "Last Name is not valid",
+    "@nameLastInputError": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "phoneInputTitle": "Enter Phone Number",
+    "@phoneInputTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneInputInfo": "A verification SMS will be sent to you",
+    "@phoneInputInfo": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneInputVerify": "Verify Phone",
+    "@phoneInputVerify": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneInputError": "Phone not valid",
+    "@phoneInputError": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "phoneVerificationTitle": "Verify Phone",
+    "@phoneVerificationTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneVerificationInfo": "An phone has been sent to ",
+    "@phoneVerificationInfo": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneVerificationNoReceive": "Didn't receive the code?",
+    "@phoneVerificationNoReceive": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneVerificationResend": "Resend",
+    "@phoneVerificationResend": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneVerificationAction": "Verify Phone",
+    "@phoneVerificationAction": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phoneVerificationError": "Pin is not valid",
+    "@phoneVerificationError": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "tripsActiveTrip": "Active Trip",
+    "@tripsActiveTrip": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripstripRequests": "Trip Requests",
+    "@tripstripRequests": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsUpcomingTrips": "Upcoming Trips",
+    "@tripsUpcomingTrips": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsCreateTrip": "Create New Trip",
+    "@tripsCreateTrip": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsMatchesFound": " matches found",
+    "@tripsMatchesFound": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsChooseOne": "Choose one and share the ride",
+    "@tripsChooseOne": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsPassnegersJoin": " passengers will join your ride",
+    "@tripsPassnegersJoin": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsStartTrip": "Start the trip",
+    "@tripsStartTrip": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsConfirmTrip": "Confirm the trip",
+    "@tripsConfirmTrip": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsTripConfirmed": "Trip confirmed",
+    "@tripsConfirmTrip": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsTripNotConfirmed": "Trip not yet confirmed",
+    "@tripsTripNotConfirmed": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "leaveAt": "Leave at ",
+    "@leaveAt": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsWaitingForConfirmation": "Waiting for trip confirmation",
+    "@tripsWaitingForConfirmation": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsCompleted": "Trip completed",
+    "@tripsCompleted": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsPickup": "Pick up ",
+    "@tripsPickup": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsDrop": "Drop ",
+    "@tripsDrop": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsNextForPickup": "Driver is picking you up next",
+    "@tripsNextForPickup": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripsNextForDrop": "Driving is dropping you next",
+    "@tripsNextForDrop": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "newTripTitle": "New Trip",
+    "@newTripTitle": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "newTripCreate": "Create",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "newTripType": "Trip Type",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "driver": "Driver",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "driverInfo": "You will drive",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "passenger": "Passenger",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "passengerInfo": "You will be a passenger",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "chooseCar": "Choose Car",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "addNewCar": "Add New Car",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "chooseTime": "Choose Time",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "leaveLocation": "Leave Location",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "arriveLocation": "Arrive Location",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "addLocation": "Add Location",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "chooseTimeToArrive": "Choose Time to Arrive",
+    "chooseTimeToLeave": "Choose Time to Leave",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "asap": "As soon as possible",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "arriveBy": "Arrive by",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "chooseRoute": "Choose Route",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "noRouteSelected": "No Route Selected",
+    "noRouteFound": "No Route Found",
+    "distance": "Distance",
+    "duration": "Duration",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "routeSelected": "Route Selected",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "logout": "Logout",
+    "@newTripCreate": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "notifications": "Notifications",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "history": "History",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "pastTrips": "Past Trips",
+    "@pastTrips": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripExpired": "Expired Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripCancelledByDriver": "Trip Canceled by Driver",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripDismissed": "Trip Dismissed for no passengers",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "currentTrip": "Current Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "driving": "Driving",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "arrive": "Arrive ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "passengers": "Passengers",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "viewMap": "View Map",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "open": "Open",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "confirmPickup": "Confirm Pickup",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "arrivedAtPickup": "Arrived at pickup location",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "confirmDrop": "Confirm Drop",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "leaveFrom": "Leave from ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "driverArrivedAtPickup": "Driver arrived at pickup location",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "getPickedUp": "Get picked up by ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "getDropped": "Get dropped by ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "arriveAt": "Arrive at ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "continueText": "Continue",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "walking": "Walking",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "trip": "Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "map": "Map",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "chooseTrip": "Choose Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "leaving": "Leaving ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "arriving": "Arriving ",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripMap": "Trip Map",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "pastTrip": "Past Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "matchesFound": " matches found.",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "upcomingTrip": "Upcoming Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "passengerLowCase": " passengers",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "confirmTrip": "Confirm Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "startTrip": "Start Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "completeTrip": "Complete Trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "chooseOtherTrip": "Choose other trip",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "rating": "Rating",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tripNotYetConfirmed": "Trip is not yet confirmed",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "meetWithDriver": "Meet with your driver at the pickup point",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "from": "From",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "to": "To",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "trips": "Trips",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "vouchers": "Vouchers",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "statistics": "Statistics",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "profile": "Profile",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "support": "Support",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "about": "About",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "goodMorning": "Good morning",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "points": "points",
+    "pointsCaps": "Points",
+    "@notifications": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "enterCarBrand": "Enter your Car Brand and Model",
+    "enterCarBrandInfo": "Please provider your car brand and model",
+    "enterCarColor": "Enter your Car Color",
+    "enterCarColorInfo": "Please provide your car color",
+    "enterCarPlate": "Enter your Car Plate Number",
+    "enterCarPlateInfo": "Please provide your car plate number",
+    "white": "White",
+    "black": "Black",
+    "blue": "Blue",
+    "gray": "Gray",
+    "yellow": "Yellow",
+    "green": "Green",
+    "newLocation": "New Location",
+    "home": "Home",
+    "work": "Work",
+    "school": "School",
+    "college": "College",
+    "add": "Add",
+    "addLabel": "Add Label",
+    "createLocation": "Create Location",
+    "cancelTrip": "Cancel Trip",
+    "leave": "Leave ",
+    "arrive": "Arrive ",
+    "confirmTripInfo": "Once a trip is confirmed, you are responsible to pick up all the passengers that choose to ride with you",
+    "announcePassengersInfo": "Don't forget to announce when you leave, so that the passengers can prepare to meet you",
+    "numberOfTripsAsDriver": "Number of Trips as Driver",
+    "numberOfTripsAsPassenger": "Number of Trips as Passenger",
+    "kmAsDriver": "Distance Traveled as a Driver",
+    "kmAsPassenger": "Distance Traveled as a Passenger",
+    "numberOfPassengers": "Number of Passengers",
+    "noVouchers": "No Vouchers are currently available for purchase",
+    "locations": "Locations",
+    "cars": "Personal Cars"
+}
